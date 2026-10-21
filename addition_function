@@ -1,1 +1,10 @@
 
+def add(a, b):
+    result = a + b
+    return result
+
+num1 = 10
+num2 = 20
+
+output = add(num1, num2)
+print("Sum:", output)

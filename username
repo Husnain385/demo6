@@ -1,1 +1,5 @@
+# Program to input a username from the user
+
+username = input("Enter your username: ")
+
 print("Your username is:", username)
